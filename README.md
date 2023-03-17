@@ -1,4 +1,4 @@
-## Oiii eu sou a Raina Rodrigues, estudante de Engenharia da Computação apaixonada por tecnologia!
+## Oiii eu sou a Raina Rodrigues.
 
 <div style="display: inline_block"><br>
 
